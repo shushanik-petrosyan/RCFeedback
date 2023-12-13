@@ -2,7 +2,6 @@
 using Xamarin.Forms;
 using RCFeedback.Data;
 using System.IO;
-using RCFeedback;
 
 namespace RCFeedback
 {

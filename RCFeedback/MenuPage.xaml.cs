@@ -1,7 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
-// Экспорт необходимых шрифтов
+
 [assembly: ExportFont("Montserrat-Medium.ttf", Alias = "Montserrat")] 
 [assembly: ExportFont("Cinzel-ExtraBold.ttf", Alias = "Cinzel-ExtraBold")] 
 

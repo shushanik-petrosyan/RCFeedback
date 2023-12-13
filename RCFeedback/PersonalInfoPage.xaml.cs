@@ -1,7 +1,6 @@
 ﻿using Rg.Plugins.Popup.Services;
 using System;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 [assembly: ExportFont("Montserrat-Medium.ttf", Alias = "Montserrat")]
 [assembly: ExportFont("Cinzel-ExtraBold.ttf", Alias = "Cinzel-ExtraBold")]
