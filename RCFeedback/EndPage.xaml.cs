@@ -16,7 +16,11 @@ namespace RCFeedback
         {
             InitializeComponent();
             NavigationPage.SetHasNavigationBar(this, false);
+            CopyDatabase();
+        }
 
+        void CopyDatabase()
+        {
             _feedbackDatabase = new FeedbackDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
                      "FeedbackDatabase.db3")); 
             _feedbackDatabase.CopyDatabaseToExternalStorage();
