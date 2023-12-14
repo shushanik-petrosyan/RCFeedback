@@ -25841,10 +25841,10 @@ namespace RCFeedback.Droid
 			public const int preference_list_divider_material = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int sofa_10726196 = 2131165329;
+			public const int sofa = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int sofa_10726196_fill = 2131165330;
+			public const int sofa_fill = 2131165330;
 			
 			// aapt resource value: 0x7F070093
 			public const int test_custom_background = 2131165331;

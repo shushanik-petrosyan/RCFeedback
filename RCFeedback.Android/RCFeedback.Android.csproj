@@ -86,7 +86,6 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
-    <None Include="Resources\drawable\.editorconfig" />
     <None Include="SQLite Browser_1.5_apkcombo.com.apk" />
     <None Include="SQLite Viewer_0.16.7_Apkpure.apk" />
   </ItemGroup>
@@ -106,7 +105,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\sofa_10726196_fill.png" />
+    <AndroidResource Include="Resources\drawable\sofa_fill.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RCFeedback\RCFeedback.csproj">
@@ -115,7 +114,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\sofa_10726196.png" />
+    <AndroidResource Include="Resources\drawable\sofa.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\logo_bezh.png" />

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:Xamarin.CommunityToolkit.Extensions;assembly=Xamarin.CommunityToolkit"
              xmlns:fRating="clr-namespace:Rating;assembly=Rating"
              x:Class="RCFeedback.RatingPage">
     
@@ -35,8 +34,8 @@
    ImageWidth="100"
    HorizontalOptions="Center"
    FlowDirection="LeftToRight"
-   EmptyStarImage="sofa_10726196"
-   FillStarImage="sofa_10726196_fill">
+   EmptyStarImage="sofa"
+   FillStarImage="sofa_fill">
                     </fRating:RatingBar>
                 </StackLayout>
             </Frame>
@@ -55,8 +54,8 @@
    ImageWidth="100"
    HorizontalOptions="Center"
    FlowDirection="LeftToRight"
-   EmptyStarImage="sofa_10726196"
-   FillStarImage="sofa_10726196_fill">
+   EmptyStarImage="sofa"
+   FillStarImage="sofa_fill">
                     </fRating:RatingBar>
                 </StackLayout>
             </Frame>
@@ -74,8 +73,8 @@
    ImageWidth="100"
    HorizontalOptions="Center"
    FlowDirection="LeftToRight"
-   EmptyStarImage="sofa_10726196"
-   FillStarImage="sofa_10726196_fill">
+   EmptyStarImage="sofa"
+   FillStarImage="sofa_fill">
                     </fRating:RatingBar>
                 </StackLayout>
             </Frame>
@@ -96,8 +95,8 @@
    ImageWidth="100"
    HorizontalOptions="Center"
    FlowDirection="LeftToRight"
-   EmptyStarImage="sofa_10726196"
-   FillStarImage="sofa_10726196_fill">
+   EmptyStarImage="sofa"
+   FillStarImage="sofa_fill">
                     </fRating:RatingBar>
                 </StackLayout>
             </Frame>
